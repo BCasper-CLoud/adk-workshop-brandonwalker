@@ -1,0 +1,1 @@
+Day 1 came with an unexpected setback when I accidentally deleted several functions and definitions from my notebook. This disrupted my progress and forced me to shift from learning and experimenting with my code/vibe coding to troubleshooting and recovering my work.
